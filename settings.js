@@ -40,9 +40,9 @@ global.email = "ranggaalfiansyah01@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6281380523725'] //premium user
-global.owner = ["6285591339086", "6287871677892"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285591339086", "6287844737809"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285591339086" // nomor wa kalian
-global.ownernomerr = "+6287871677892" //nmr wa kalian
+global.ownernomerr = "+6287844737809" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
@@ -54,7 +54,7 @@ global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
-   free: 100
+   free: 10
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
